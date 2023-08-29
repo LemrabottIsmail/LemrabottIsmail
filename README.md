@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lemrabott Ismail</h1>
 <h3 align="center">A passionate Computer Engineer from Mauritania !</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemrabottismail&label=Profile%20views&color=0e75b6&style=flat" alt="lemrabottismail" /> </p>
 <img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemrabottismail&label=Profile%20views&color=0e75b6&style=flat" alt="lemrabottismail" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemrabottismail" alt="lemrabottismail" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
