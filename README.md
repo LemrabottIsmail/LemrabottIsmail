@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lemrabottismail&show_icons=true&locale=en&layout=compact" alt="lemrabottismail" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemrabottismail&show_icons=true&locale=en" alt="lemrabottismail" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemrabottismail&" alt="lemrabottismail" /></p>
